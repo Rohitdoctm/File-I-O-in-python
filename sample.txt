@@ -1,0 +1,2 @@
+My name is Rohit Shaw and i am learning file I/O in python.
+Learning the various types of mode to open a File
